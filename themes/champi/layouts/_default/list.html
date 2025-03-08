@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+    {{ partial "head.html" . }}
+    <body>
+        <div id="pakajo" class="clearfix">
+            {{ partial "header.html" . }}
+            <main id="main">
+                <h1>{{ .Title }}</h1>
+                {{ .Content }}
+                {{ range .Pages }}
+                    <article>
+                        <div><time datetime="{{ dateFormat "January 2, 2006" .Date }}">{{ dateFormat "January 2, 2006" .Date }}</time></div>
+                        <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+                    </article>
+                {{ end }}
+            </main>
+            {{ partial "footer.html" . }}
+        </div>
+    </body>
+</html>

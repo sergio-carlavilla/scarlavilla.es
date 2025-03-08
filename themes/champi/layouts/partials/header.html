@@ -1,0 +1,26 @@
+<header id="sidebar">
+  <div class="clearfix">
+    <div id="logo">
+      <img class="header-img" src="{{ absLangURL ($.Site.BaseURL) }}images/baby.png" alt="My little baby. It's a dog, a chihuahua" />
+    </div>
+    <nav id="menu">
+      <ul class="navigation">
+        <li class="navigation-item"><a class="nav-link" href="{{ "." | absLangURL }}">About</a></li>
+        <li class="navigation-item"><a class="nav-link" href="{{ "projects" | absLangURL }}">Projects</a></li>
+        <li class="navigation-item"><a class="nav-link" href="{{ "translations" | absLangURL }}">Translations</a></li>
+        <li class="navigation-item"><a class="nav-link" href="{{ "blog" | absLangURL }}">Blog</a></li>
+        <li class="navigation-item">
+          <a href="xmpp:carlavilla@siracusa.es">
+            <img class="social-logos" src="{{ absLangURL ($.Site.BaseURL) }}images/xmpp.svg" alt="XMPP logo" />
+          </a>
+          <a href="https://gitlab.com/carlavilla">
+            <img class="social-logos" src="{{ absLangURL ($.Site.BaseURL) }}images/gitlab.svg" alt="Gitlab logo" />
+          </a>
+          <a href="mailto:sergio.carlavilla91@gmail.com">
+            <img class="social-logos" src="{{ absLangURL ($.Site.BaseURL) }}images/mail.svg" alt="Email me ;)" />
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

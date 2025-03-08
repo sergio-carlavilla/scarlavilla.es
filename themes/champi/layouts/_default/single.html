@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+    {{ partial "head.html" . }}
+    <body>
+        <div id="pakajo" class="clearfix">
+            {{ partial "header.html" . }}
+            <main id="main">
+                <h1>{{ .Title }}</h1>
+                {{ .Content }}
+            </main>
+            {{ partial "footer.html" . }}
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+name = "champi"
+license = "GPL-3.0-or-later"
+
+[author]
+    name = "Sergio Carlavilla Delgado"
+    homepage = "https://scarlavilla.es"

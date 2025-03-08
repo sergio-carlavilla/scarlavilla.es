@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="376.50656"
+   version="1.1"
+   viewBox="0 0 237.24995 376.50656"
+   width="237.24995"
+   id="svg24"
+   sodipodi:docname="lightsaber.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="835"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="1.1132075"
+     inkscape:cx="20.000004"
+     inkscape:cy="211.99997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc4" />
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     transform="rotate(-29.798503,18.333305,10.330332)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="star-wars-copy"
+       transform="translate(-1066,-2367)">
+      <g
+         id="lightsaber-darth-vader"
+         transform="translate(1066,2367)">
+        <path
+           d="M 24.5688,5.04 C 24.4928,2.32 22.5648,0.088 20.1408,0.004 17.6168,-0.084 15.5088,2.168 15.4328,5.04 L 12.0008,288 H 28.0008 Z"
+           id="Fill-1"
+           inkscape:connector-curvature="0"
+           style="fill:#e74c3c" />
+        <path
+           d="M 40,288 H 36 V 284 H 40 Z"
+           id="Fill-3"
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe" />
+        <path
+           d="M 40,300 H 36 V 296 H 40 Z"
+           id="Fill-5"
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe" />
+        <path
+           d="M 32,424 H 8 V 420 H 32 Z"
+           id="Fill-6"
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe" />
+        <path
+           d="M 32,352 H 8 V 344 H 32 Z"
+           id="Fill-7"
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe" />
+        <path
+           d="M 32,320 H 8 V 304 H 32 Z"
+           id="Fill-8"
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe" />
+        <path
+           d="M 36,344 H 4 V 320 H 36 Z"
+           id="Fill-9"
+           inkscape:connector-curvature="0"
+           style="fill:#323232" />
+        <path
+           d="M 36,304 H 4 V 288 L 36,272 Z"
+           id="Fill-10"
+           inkscape:connector-curvature="0"
+           style="fill:#323232" />
+        <path
+           d="M 0,340 H 4 V 324 H 0 Z"
+           id="Fill-11"
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe" />
+        <path
+           d="M 32,420 H 8 V 352 H 32 Z"
+           id="Fill-12"
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe" />
+        <path
+           d="M 12,420 H 4 V 352 H 12 Z"
+           id="Fill-13"
+           inkscape:connector-curvature="0"
+           style="fill:#323232" />
+        <path
+           d="M 36,420 H 28 V 352 H 36 Z"
+           id="Fill-14"
+           inkscape:connector-curvature="0"
+           style="fill:#323232" />
+        <path
+           d="M 24,420 H 16 V 352 H 24 Z"
+           id="Fill-15"
+           inkscape:connector-curvature="0"
+           style="fill:#323232" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="Page-1-7"
+     transform="rotate(29.711699,114.69246,389.57731)">
+    <g
+       id="star-wars-copy-5"
+       transform="translate(-1201,-2367)">
+      <g
+         id="lightsaber-luke-rotj"
+         transform="translate(1201,2367)">
+        <path
+           style="fill:#8cbe3c"
+           inkscape:connector-curvature="0"
+           d="M 20.5688,5.04 C 20.4928,2.32 18.5648,0.088 16.1408,0.004 13.6168,-0.084 11.5088,2.168 11.4328,5.04 L 8.0008,288 H 24.0008 Z"
+           id="Fill-16" />
+        <path
+           style="fill:#bebebe"
+           inkscape:connector-curvature="0"
+           d="M 28,424 H 4 V 420 H 28 Z"
+           id="Fill-17" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 28,400 H 4 V 384 H 28 Z"
+           id="Fill-18" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 30,348 H 2 V 344 H 30 Z"
+           id="Fill-19" />
+        <path
+           style="fill:#323232"
+           inkscape:connector-curvature="0"
+           d="M 28,344 H 4 V 340 H 28 Z"
+           id="Fill-20" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 30,340 H 2 V 336 H 30 Z"
+           id="Fill-21" />
+        <path
+           style="fill:#323232"
+           inkscape:connector-curvature="0"
+           d="M 28,336 H 4 V 332 H 28 Z"
+           id="Fill-22" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 30,332 H 2 V 328 H 30 Z"
+           id="Fill-23" />
+        <path
+           style="fill:#323232"
+           inkscape:connector-curvature="0"
+           d="M 28,328 H 4 V 324 H 28 Z"
+           id="Fill-24" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 30,324 H 2 V 320 H 30 Z"
+           id="Fill-25" />
+        <path
+           style="fill:#323232"
+           inkscape:connector-curvature="0"
+           d="M 28,320 H 4 V 316 H 28 Z"
+           id="Fill-26" />
+        <path
+           style="fill:#323232"
+           inkscape:connector-curvature="0"
+           d="M 28,352 H 4 V 348 H 28 Z"
+           id="Fill-27" />
+        <path
+           style="fill:#bebebe"
+           inkscape:connector-curvature="0"
+           d="M 28,388 H 4 V 360 H 28 Z"
+           id="Fill-28" />
+        <path
+           style="fill:#323232"
+           inkscape:connector-curvature="0"
+           d="M 24,320 H 8 V 300 H 24 Z"
+           id="Fill-29" />
+        <path
+           style="fill:#bebebe"
+           inkscape:connector-curvature="0"
+           d="M 32,272 H 0 V 276 H 32 Z"
+           id="Fill-30" />
+        <path
+           style="fill:#bebebe"
+           inkscape:connector-curvature="0"
+           d="M 28,276 H 4 V 288 H 28 Z"
+           id="Fill-31" />
+        <path
+           style="fill:#a57d52"
+           inkscape:connector-curvature="0"
+           d="M 20,288 H 12 V 300 H 20 Z"
+           id="Fill-32" />
+        <path
+           style="fill:#bebebe"
+           inkscape:connector-curvature="0"
+           d="M 4,308 H 28 V 304 H 4 Z"
+           id="Fill-33" />
+        <path
+           style="fill:#a57d52"
+           inkscape:connector-curvature="0"
+           d="M 6,304 H 26 V 296 H 6 Z"
+           id="Fill-34" />
+        <path
+           style="fill:#cbcbcb"
+           inkscape:connector-curvature="0"
+           d="M 0,384 H 4 V 364 H 0 Z"
+           id="Fill-35" />
+        <path
+           style="fill:#bebebe"
+           inkscape:connector-curvature="0"
+           d="M 28,420 H 4 V 400 H 28 Z"
+           id="Fill-36" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 8,420 H 0 V 404 H 8 Z"
+           id="Fill-37" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 32,420 H 24 V 404 H 32 Z"
+           id="Fill-38" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 20,420 H 12 V 404 H 20 Z"
+           id="Fill-39" />
+        <path
+           style="fill:#8c8c8c"
+           inkscape:connector-curvature="0"
+           d="M 30,356 H 2 V 352 H 30 Z"
+           id="Fill-40" />
+        <path
+           style="fill:#323232"
+           inkscape:connector-curvature="0"
+           d="M 28,360 H 4 V 356 H 28 Z"
+           id="Fill-41" />
+      </g>
+    </g>
+  </g>
+</svg>

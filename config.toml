@@ -1,0 +1,11 @@
+baseURL = "https://scarlavilla.es/"
+title = "Sergio Carlavilla's Website"
+license = "GPL-3.0-or-later"
+theme = "champi"
+authors = [ "sergio.carlavilla@gmail.org" ]
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
