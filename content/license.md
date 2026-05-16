@@ -3,7 +3,7 @@ title: "Licenses, the boring thing 😫"
 author: "Sergio Carlavilla Delgado"
 ---
 
-All content of the web page is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted.
+All content of this website is licensed under the [BSD 2-Clause "FreeBSD" License](https://www.freebsd.org/copyright/freebsd-license/) unless otherwise noted.
 
 ## Exceptions
 

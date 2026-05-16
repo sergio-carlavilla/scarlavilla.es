@@ -1,5 +1,5 @@
 name = "champi"
-license = "GPL-3.0-or-later"
+license = "BSD-2-Clause"
 
 [author]
     name = "Sergio Carlavilla Delgado"

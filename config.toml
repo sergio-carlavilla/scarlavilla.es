@@ -2,7 +2,7 @@ baseURL = "https://scarlavilla.es/"
 title = "Sergio Carlavilla's Website"
 license = "GPL-3.0-or-later"
 theme = "champi"
-authors = [ "sergio.carlavilla@gmail.org" ]
+authors = [ "sergio.carlavilla91@gmail.org" ]
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 

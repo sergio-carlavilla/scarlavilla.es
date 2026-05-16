@@ -8,10 +8,13 @@ These are the projects, both technical and non-technical, that currently occupy 
 ## FreeBSD
 
 As an active contributor to the FreeBSD Project, I focus on improving and modernizing its documentation.
-I am a member of the Documentation Engineering Team (doceng@) and also serve as the Core Team Secretary, supporting project governance and coordination.
+I am currently a member of the Release Engineering Team and the Wiki Team, while continuing my involvement with documentation efforts.
 
 One of my key contributions was leading the migration of FreeBSD's documentation system from DocBook to Hugo/AsciiDoc, streamlining the workflow and enhancing accessibility for contributors.
-Additionally, I have participated in multiple working groups aimed at refining and expanding the documentation, ensuring that FreeBSD remains well-documented and user-friendly for both newcomers and experienced users.
+I have also participated in multiple working groups aimed at refining and expanding the documentation, ensuring that FreeBSD remains well-documented and user-friendly for both newcomers and experienced users.
+
+I previously served as a member of the Documentation Engineering Team (doceng@) and as Core Team Secretary.
+These days, my focus has shifted toward exploring the intersection of Rust and FreeBSD, investigating how modern systems programming can strengthen the FreeBSD ecosystem.
 
 ## QtEmu
 
